@@ -4,3 +4,21 @@
 [submodule "zCore"]
 	path = zCore
 	url = git@github.com:losfair/zCore
+[submodule "seL4_tools"]
+	path = seL4_tools
+	url = https://github.com/seL4/seL4_tools
+[submodule "polly"]
+	path = polly
+	url = https://github.com/ruslo/polly
+[submodule "musllibc"]
+	path = musllibc
+	url = https://github.com/seL4/musllibc
+[submodule "util_libs"]
+	path = util_libs
+	url = https://github.com/seL4/util_libs
+[submodule "seL4_libs"]
+	path = seL4_libs
+	url = https://github.com/seL4/seL4_libs
+[submodule "sel4runtime"]
+	path = sel4runtime
+	url = https://github.com/sel4proj/sel4runtime
